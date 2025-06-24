@@ -1,0 +1,33 @@
+{
+  "name": "rm-portfolio",
+  "version": "1.0.0",
+  "description": "A modern, animated, 3D portfolio website built with HTML, CSS, JavaScript, and Three.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000 -o",
+    "dev": "http-server -p 8000 -o -c-1",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "threejs",
+    "3d",
+    "animation",
+    "modern",
+    "responsive",
+    "web-design"
+  ],
+  "author": "RM Portfolio",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/rm-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/rm-portfolio/issues"
+  },
+  "homepage": "https://github.com/yourusername/rm-portfolio#readme"
+} 
